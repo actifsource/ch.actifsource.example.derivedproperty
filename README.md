@@ -9,7 +9,10 @@ The targets are defined by DerivedReleationAspect.
 An DerivedAttribute is a simple value-typed property of a class and cannot be edited.
 The values are defined by DerivedAttributeAspect.
 
-![Model Snippet Built-In](images/derivedproperty.png)
+![Derived Property](images/derivedproperty.png)
+
+## Derived Property Preferences
+![Preferences](images/preferences.png)
 
 ## Requirements
 Actifsource Workbench Community Edition
