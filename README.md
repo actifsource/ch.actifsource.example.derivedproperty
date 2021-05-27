@@ -1,4 +1,4 @@
-# Derived Property (Derived Relation and Derived Attribute)
+# Derived Property
 In this project we will show how to define a derived relation or a derived attribute.
 
 ## DerivedReleation
