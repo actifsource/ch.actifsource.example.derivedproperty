@@ -6,7 +6,7 @@ A DerivedReleation is a loose Relation between source and target and cannot be e
 The targets are defined by DerivedReleationAspect.
 
 ## DerivedAttribute
-An attribute is a simple value-typed property of a class and cannot be edited.
+An DerivedAttribute is a simple value-typed property of a class and cannot be edited.
 The values are defined by DerivedAttributeAspect.
 
 ![Model Snippet Built-In](images/derivedproperty.png)
