@@ -1,0 +1,35 @@
+multiDerivedRelation:
+Object1
+Object2
+Object3
+Object4
+
+singleDerivedRelation:
+Object1
+
+multiDerivedAttribute:
+Object1
+Object2
+Object3
+Object4
+
+singleDerivedAttribute:
+Object1
+
+booleanDerivedAttribute:
+true
+
+integerDerivedAttribute:
+55
+
+textDerivedAttribute:
+1 foo bar
+2 foo bar
+
+templateDerivedAttribute:
+Object1 [bee61f35-becc-11eb-a569-918f3c9a692e]
+Object2 [c392de6b-becc-11eb-a569-918f3c9a692e]
+Object3 [c3c8bb80-becc-11eb-a569-918f3c9a692e]
+Object4 [c3fd3905-becc-11eb-a569-918f3c9a692e]
+
+// Actifsource ID=[a4825fd8-bece-11eb-a569-918f3c9a692e,42dd7f31-becc-11eb-a569-918f3c9a692e,VdR5dKLwk4IFqwsKpVLAFyM0by4=]
