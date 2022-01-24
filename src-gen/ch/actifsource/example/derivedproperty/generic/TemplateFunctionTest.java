@@ -23,6 +23,9 @@ public class TemplateFunctionTest {
     @IDynamicResourceExtension.MethodId("4520f3f0-bece-11eb-a569-918f3c9a692e")
     public java.lang.String derivedAttributeValueTest();
 
+    @IDynamicResourceExtension.MethodId("fc6d48f8-7d0d-11ec-add8-e3a868e74a53")
+    public java.lang.String derivedAttributeTargetText();
+
   }
   
   public static interface IDerivedPropertyRootFunctionsImpl extends IDynamicResourceExtensionJavaImpl {
@@ -45,4 +48,4 @@ public class TemplateFunctionTest {
 
 }
 
-/* Actifsource ID=[5349246f-db37-11de-82b8-17be2e034a3b,3a9c3cab-bece-11eb-a569-918f3c9a692e,f+OAD2YjbmvlXLaHjTwBb2qvaKY=] */
+/* Actifsource ID=[5349246f-db37-11de-82b8-17be2e034a3b,3a9c3cab-bece-11eb-a569-918f3c9a692e,0VlOuJgSqPtQlzhyuGQeN2AqXqk=] */

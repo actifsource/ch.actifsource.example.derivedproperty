@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="0f569792-7d0e-11ec-add8-e3a868e74a53">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0f56bea4-7d0e-11ec-add8-e3a868e74a53" type="resource" guid="d45a2b2b-3099-11ea-8c92-69fa7f5db471" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0f570cc5-7d0e-11ec-add8-e3a868e74a53" type="literal">TestEnvironment</object>
+  </predicate>
+  <predicate guid="e8032137-3099-11ea-8c92-69fa7f5db471">
+    <object statement-guid="120c9010-7d0e-11ec-add8-e3a868e74a53" type="aggregate" guid="120c68fd-7d0e-11ec-add8-e3a868e74a53" />
+  </predicate>
+</resource>
+

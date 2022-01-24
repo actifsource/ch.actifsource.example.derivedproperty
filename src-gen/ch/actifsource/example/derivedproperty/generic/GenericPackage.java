@@ -19,6 +19,7 @@ public class GenericPackage {
   public static final Resource DerivedPropertyRoot_textDerivedAttribute = new Resource("ebde2817-becd-11eb-a569-918f3c9a692e");
   public static final Resource TemplateFunctionTest_DerivedPropertyRoot = new Resource("3b7f229f-bece-11eb-a569-918f3c9a692e");
   public static final Resource DerivedPropertyRoot_templateDerivedAttribute = new Resource("51753bef-bece-11eb-a569-918f3c9a692e");
+  public static final Resource DerivedPropertyRoot_targetObjectAsTable = new Resource("e19f8f95-7d0d-11ec-add8-e3a868e74a53");
   
   /* Begin Protected Region [[user]] */
   
@@ -39,4 +40,4 @@ public class GenericPackage {
   }
   
 }
-/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.derivedproperty.generic,uOVojjgcKYkBZwpc/WvaNDUrw1Y=] */
+/* Actifsource ID=[c1a07b92-fc09-11e0-b756-0dc1d96a76cb,ch.actifsource.example.derivedproperty.generic,Sd8W8O7DT9pp3pz5B7n+89UvoyE=] */

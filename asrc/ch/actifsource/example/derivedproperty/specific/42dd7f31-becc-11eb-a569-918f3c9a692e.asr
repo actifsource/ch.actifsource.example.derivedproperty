@@ -45,7 +45,7 @@
           <object statement-guid="0d19d8a8-bece-11eb-a569-918f3c9a692e" type="literal">true</object>
         </predicate>
         <predicate guid="c0d3f018-becd-11eb-a569-918f3c9a692e">
-          <object statement-guid="109fa40b-bece-11eb-a569-918f3c9a692e" type="literal">55</object>
+          <object statement-guid="109fa40b-bece-11eb-a569-918f3c9a692e" type="literal">56</object>
         </predicate>
         <predicate guid="d5ab5285-becd-11eb-a569-918f3c9a692e">
           <object statement-guid="12ecef6e-bece-11eb-a569-918f3c9a692e" type="literal">1 foo bar
@@ -65,7 +65,7 @@
           <object statement-guid="0e3b4e39-bece-11eb-a569-918f3c9a692e" type="literal">true</object>
         </predicate>
         <predicate guid="c0d3f018-becd-11eb-a569-918f3c9a692e">
-          <object statement-guid="110b371c-bece-11eb-a569-918f3c9a692e" type="literal">55</object>
+          <object statement-guid="110b371c-bece-11eb-a569-918f3c9a692e" type="literal">57</object>
         </predicate>
         <predicate guid="d5ab5285-becd-11eb-a569-918f3c9a692e">
           <object statement-guid="13a235af-bece-11eb-a569-918f3c9a692e" type="literal">1 foo bar
@@ -85,7 +85,7 @@
           <object statement-guid="0f933d1a-bece-11eb-a569-918f3c9a692e" type="literal">true</object>
         </predicate>
         <predicate guid="c0d3f018-becd-11eb-a569-918f3c9a692e">
-          <object statement-guid="11876bfd-bece-11eb-a569-918f3c9a692e" type="literal">55</object>
+          <object statement-guid="11876bfd-bece-11eb-a569-918f3c9a692e" type="literal">58</object>
         </predicate>
         <predicate guid="d5ab5285-becd-11eb-a569-918f3c9a692e">
           <object statement-guid="141ff130-bece-11eb-a569-918f3c9a692e" type="literal">1 foo bar

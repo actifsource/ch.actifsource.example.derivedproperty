@@ -76,6 +76,15 @@ public class DerivedPropertyRoot extends DynamicResource implements IDerivedProp
   }
 
   @Override
+  public java.lang.String selectTargetObjectAsTable() {
+    return _getSingleAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_targetObjectAsTable);
+  }
+    
+  public void setTargetObjectAsTable(java.lang.String targetObjectAsTable) {
+     _setSingleAttribute(ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_targetObjectAsTable, targetObjectAsTable);
+  }
+
+  @Override
   public java.lang.String selectTemplateDerivedAttribute() {
     return _getSingleAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_templateDerivedAttribute);
   }
@@ -144,6 +153,7 @@ public class DerivedPropertyRoot extends DynamicResource implements IDerivedProp
     _acceptListAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_multiDerivedAttribute, visitor);
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.core.CorePackage.NamedResource_name, visitor);
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_singleDerivedAttribute, visitor);
+    _acceptSingleAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_targetObjectAsTable, visitor);
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_templateDerivedAttribute, visitor);
     _acceptSingleAttribute(java.lang.String.class, ch.actifsource.example.derivedproperty.generic.GenericPackage.DerivedPropertyRoot_textDerivedAttribute, visitor);
     // relations
@@ -168,4 +178,4 @@ public class DerivedPropertyRoot extends DynamicResource implements IDerivedProp
   }
   
 }
-/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,3638a5fc-becc-11eb-a569-918f3c9a692e,7HYVPa9XJiKNZ54GMn+KKIiU0e8=] */
+/* Actifsource ID=[4d723cb5-db37-11de-82b8-17be2e034a3b,3638a5fc-becc-11eb-a569-918f3c9a692e,OHRo1Xgpp/8RMxeLRK2IPhZAgKs=] */

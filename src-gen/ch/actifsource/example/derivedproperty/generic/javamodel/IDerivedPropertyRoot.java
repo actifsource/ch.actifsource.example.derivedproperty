@@ -18,6 +18,8 @@ public interface IDerivedPropertyRoot extends ch.actifsource.core.javamodel.INam
   
   public java.lang.String selectTemplateDerivedAttribute();
   
+  public java.lang.String selectTargetObjectAsTable();
+  
   // relations
   
   public java.util.List<? extends ch.actifsource.example.derivedproperty.generic.javamodel.IDerivedObject> selectMultiDerivedRelation();
@@ -28,4 +30,4 @@ public interface IDerivedPropertyRoot extends ch.actifsource.core.javamodel.INam
   
 }
 
-/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,3638a5fc-becc-11eb-a569-918f3c9a692e,Sr2PpV8NHfzJXdS6vrGHpUR0m8o=] */
+/* Actifsource ID=[3ca9f967-db37-11de-82b8-17be2e034a3b,3638a5fc-becc-11eb-a569-918f3c9a692e,tffsp9KFRJUQgzBX4DiAzHwdsKY=] */
